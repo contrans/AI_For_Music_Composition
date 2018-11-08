@@ -1,6 +1,6 @@
 # MuseGAN
 
-[MuseGAN](https://salu133445.github.io/musegan/) is a project on music
+[AuseGAN](https://salu133445.github.io/musegan/) is a project on music
 generation. In essence, we aim to generate polyphonic music of multiple tracks
 (instruments) with harmonic and rhythmic structure, multi-track interdependency
 and temporal structure. To our knowledge, our work represents the first approach
